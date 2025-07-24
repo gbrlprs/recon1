@@ -30,7 +30,7 @@
 1. **Clone this repository** (or copy the script to your machine):
    ```bash
    git clone https://github.com/gbrlprs/recon1
-   cd recon1/bash
+   cd recon1
    ```
 2. **Make the script executable:**
    ```bash
